@@ -1,8 +1,6 @@
  name: Release candidate
 
-on:
-  push:
-    tags: ["v*", "dev*", "try*"]
+on: [push]
 
 jobs:
   windows:
