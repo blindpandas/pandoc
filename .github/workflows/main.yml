@@ -1,4 +1,4 @@
- name: Release candidate
+name: Release candidate
 
 on: [push]
 
